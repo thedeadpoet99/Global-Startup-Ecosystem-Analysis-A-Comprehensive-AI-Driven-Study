@@ -512,9 +512,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **🚀 Transforming Entrepreneurship Through Data Science 🚀**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/startup-ecosystem-analysis.svg?style=social&label=Star)]([https://github.com/yourusername/startup-ecosystem-analysis](https://github.com/thedeadpoet99/Global-Startup-Ecosystem-Analysis-A-Comprehensive-AI-Driven-Study))
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/startup-ecosystem-analysis.svg?style=social&label=Fork)]([https://github.com/yourusername/startup-ecosystem-analysis/fork](https://github.com/thedeadpoet99/Global-Startup-Ecosystem-Analysis-A-Comprehensive-AI-Driven-Study))
-[![GitHub watchers](https://img.shields.io/github/watchers/yourusername/startup-ecosystem-analysis.svg?style=social&label=Watch)]([https://github.com/yourusername/startup-ecosystem-analysis](https://github.com/thedeadpoet99/Global-Startup-Ecosystem-Analysis-A-Comprehensive-AI-Driven-Study))
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/startup-ecosystem-analysis.svg?style=social&label=Star)]([https://github.com/thedeadpoet99/Global-Startup-Ecosystem-Analysis-A-Comprehensive-AI-Driven-Study])
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/startup-ecosystem-analysis.svg?style=social&label=Fork)]([https://github.com/thedeadpoet99/Global-Startup-Ecosystem-Analysis-A-Comprehensive-AI-Driven-Study])
+[![GitHub watchers](https://img.shields.io/github/watchers/yourusername/startup-ecosystem-analysis.svg?style=social&label=Watch)]([https://github.com/thedeadpoet99/Global-Startup-Ecosystem-Analysis-A-Comprehensive-AI-Driven-Study])
 
 
 </div>
