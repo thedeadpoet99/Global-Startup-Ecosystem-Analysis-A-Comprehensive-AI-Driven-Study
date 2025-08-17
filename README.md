@@ -495,18 +495,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - **Data Sources**: Crunchbase, AngelList, Public Records
-- **Computing Resources**: [University/Cloud Provider]
-- **Research Collaborators**: [Collaborating Institutions]
 - **Open Source Libraries**: scikit-learn, XGBoost, LightGBM, pandas
 - **Community**: Special thanks to all contributors and beta testers
 
 ## 📞 Contact & Support
-
-### 👨‍💼 **Research Lead**
 **Abdullah Al Mamun**  
 📧 [mamun.a.abdullah01@gmail.com](mailto:mamun.a.abdullah01@gmail.com)  
 🔬 *AI & Data Science Researcher*
-
 [![Email](https://img.shields.io/badge/Email-mamun.a.abdullah01%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mamun.a.abdullah01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mamun-a-abdullah)
 
