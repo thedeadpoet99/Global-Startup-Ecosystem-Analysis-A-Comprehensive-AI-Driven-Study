@@ -401,7 +401,7 @@ We welcome contributions from the community! Here's how you can help:
 ### Development Setup
 ```bash
 # Fork the repository
-git clone https://github.com/yourusername/startup-ecosystem-analysis.git
+git clone https://github.com/thedeadpoet99/Global-Startup-Ecosystem-Analysis-A-Comprehensive-AI-Driven-Study
 
 # Create development environment
 conda env create -f environment-dev.yml
